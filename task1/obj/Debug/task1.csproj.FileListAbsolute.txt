@@ -1,0 +1,7 @@
+F:\Новая папка (4)\task1\task1\bin\Debug\task1.exe.config
+F:\Новая папка (4)\task1\task1\bin\Debug\task1.exe
+F:\Новая папка (4)\task1\task1\bin\Debug\task1.pdb
+F:\Новая папка (4)\task1\task1\obj\Debug\task1.csproj.AssemblyReference.cache
+F:\Новая папка (4)\task1\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+F:\Новая папка (4)\task1\task1\obj\Debug\task1.exe
+F:\Новая папка (4)\task1\task1\obj\Debug\task1.pdb

@@ -1,0 +1,14 @@
+F:\Новая папка (4)\Практическая работа 2\task1\bin\Debug\task1.exe.config
+F:\Новая папка (4)\Практическая работа 2\task1\bin\Debug\task1.exe
+F:\Новая папка (4)\Практическая работа 2\task1\bin\Debug\task1.pdb
+F:\Новая папка (4)\Практическая работа 2\task1\obj\Debug\practical-work-2.csproj.AssemblyReference.cache
+F:\Новая папка (4)\Практическая работа 2\task1\obj\Debug\practical-work-2.csproj.CoreCompileInputs.cache
+F:\Новая папка (4)\Практическая работа 2\task1\obj\Debug\task1.exe
+F:\Новая папка (4)\Практическая работа 2\task1\obj\Debug\task1.pdb
+F:\Visual pr\practical-work-2\task1\bin\Debug\task1.exe.config
+F:\Visual pr\practical-work-2\task1\bin\Debug\task1.exe
+F:\Visual pr\practical-work-2\task1\bin\Debug\task1.pdb
+F:\Visual pr\practical-work-2\task1\obj\Debug\practical-work-2.csproj.AssemblyReference.cache
+F:\Visual pr\practical-work-2\task1\obj\Debug\practical-work-2.csproj.CoreCompileInputs.cache
+F:\Visual pr\practical-work-2\task1\obj\Debug\task1.exe
+F:\Visual pr\practical-work-2\task1\obj\Debug\task1.pdb
